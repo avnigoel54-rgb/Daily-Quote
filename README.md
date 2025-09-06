@@ -1,3 +1,4 @@
+https://github.com/avnigoel54-rgb/Daily-Quote/blob/main/ans.png
 # 🌞 Daily Quote dApp — Built on Algorand
 
 Welcome to **Daily Quote**, a simple decentralized application (dApp) built on the Algorand blockchain. This project showcases how you can store and update an inspiring quote each day using smart contracts written in TypeScript.
