@@ -54,11 +54,12 @@ export class DailyQuote extends Contract {
   lastUpdated = GlobalState<string>({ key: "lastUpdated", initialValue: "" });
 
   // Update the daily quote (for simplicity, anyone can update)
+
   setQuote(newQuote: string, today: string): string {
     
     return newQuote;
   }
-<img width="1702" height="838" alt="image" src="https://github.com/user-attachments/assets/caec7fd3-02ca-464d-a719-2b0c1f484bc5" />
+
 
 
   // Get the current quote
@@ -66,3 +67,4 @@ export class DailyQuote extends Contract {
     return this.quote.value;
   }
 }
+<img width="838" height="1702" alt="ans" src="https://github.com/user-attachments/assets/33a0353d-d9a3-47b6-abe8-29c015a0dba4" />
