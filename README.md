@@ -58,6 +58,8 @@ export class DailyQuote extends Contract {
     
     return newQuote;
   }
+<img width="1702" height="838" alt="image" src="https://github.com/user-attachments/assets/caec7fd3-02ca-464d-a719-2b0c1f484bc5" />
+
 
   // Get the current quote
   getQuote(): string {
